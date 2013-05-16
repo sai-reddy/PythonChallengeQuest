@@ -1,4 +1,4 @@
 PythonChallengeQuest
 ====================
 
-The repository is the solutions to the python challenge websites problems. 
+The repository is to maintain my discoveries in the python challenge website quest. 
